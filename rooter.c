@@ -53,3 +53,4 @@ module_param(pid,int ,1);
 MODULE_PARM_DESC(pid,"Pid of process to be rooted");
 
 MODULE_LICENSE("GPL");
+MODULE_AUTHOR("Vishnu");
